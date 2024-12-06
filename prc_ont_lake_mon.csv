@@ -1,8 +1,3 @@
-Monthly data for lake:, ont
-Subbasin:, Overlake
-DataType:, Precipitation
-DataType:, Sum of daily precipitation values
-Units:, mm
 YYYY,       Jan,       Feb,       Mar,       Apr,       May,       Jun,       Jul,       Aug,       Sep,       Oct,       Nov,       Dec
 1940,    61.080,    63.960,    60.720,    70.810,   101.730,    82.080,    71.690,    38.830,    69.070,    41.220,   106.040,    90.590
 1941,    59.590,    50.990,    45.560,    23.560,    35.850,    38.980,    93.260,    84.840,    38.570,   103.190,    69.610,    74.030
